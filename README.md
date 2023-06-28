@@ -10,6 +10,10 @@ This project uses prompt engineering and hyperparameter tuning to further unders
 
 
 
+https://github.com/AlisonYao/Stable-Diffusion-Movie-Poster-Generation/assets/49512599/9cc1196c-6ebe-4888-b54c-5eb5e7d233a6
+
+
+
 ## Result
  Report: [final report](milestones/4_project_results.pdf)
 
