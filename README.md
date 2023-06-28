@@ -18,5 +18,7 @@ https://github.com/AlisonYao/Stable-Diffusion-Movie-Poster-Generation/assets/495
  Report: [final report](milestones/4_project_results.pdf)
 
  <!-- Blog: [in progress] -->
+ 
+<img width="944" alt="generated_poster_samples" src="https://github.com/AlisonYao/Stable-Diffusion-Movie-Poster-Generation/assets/49512599/4ed4a4bf-2a17-441f-aeec-ce544055d0ce">
 
-  Report: [Generated](figures/generated_poster_samples)
+
